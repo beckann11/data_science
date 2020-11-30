@@ -1,2 +1,2 @@
-# data_science
-Practicing data science skills in python
+# exploratory_data_analysis
+Practicing exploratory data analysis in python
